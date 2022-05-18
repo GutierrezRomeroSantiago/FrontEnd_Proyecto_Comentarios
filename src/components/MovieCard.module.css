@@ -1,0 +1,17 @@
+.movieCard {
+    list-style: none;
+    font-size: 2rem;
+}
+
+.movieCard:hover {
+    opacity: 0.6
+}
+
+.movieImage {
+    border-radius: 10px;
+    background-color: azure
+}
+
+.title {
+    text-decoration: none;
+}
